@@ -1,0 +1,26 @@
+C:\Users\USUARIO\Desktop\3.er semestre\TAREA DE API\TareaDeAPI\TareaDeAPI\obj\Debug\TareaDeAPI.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\3.er semestre\TAREA DE API\TareaDeAPI\TareaDeAPI\obj\Debug\TareaDeAPI.Form1.resources
+C:\Users\USUARIO\Desktop\3.er semestre\TAREA DE API\TareaDeAPI\TareaDeAPI\obj\Debug\TareaDeAPI.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\3.er semestre\TAREA DE API\TareaDeAPI\TareaDeAPI\obj\Debug\TareaDeAPI.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\3.er semestre\TAREA DE API\TareaDeAPI\TareaDeAPI\obj\Debug\TareaDeAPI.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\3.er semestre\TAREA DE API\TareaDeAPI\TareaDeAPI\bin\Debug\TareaDeAPI.exe.config
+C:\Users\USUARIO\Desktop\3.er semestre\TAREA DE API\TareaDeAPI\TareaDeAPI\bin\Debug\TareaDeAPI.exe
+C:\Users\USUARIO\Desktop\3.er semestre\TAREA DE API\TareaDeAPI\TareaDeAPI\bin\Debug\TareaDeAPI.pdb
+C:\Users\USUARIO\Desktop\3.er semestre\TAREA DE API\TareaDeAPI\TareaDeAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\3.er semestre\TAREA DE API\TareaDeAPI\TareaDeAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\3.er semestre\TAREA DE API\TareaDeAPI\TareaDeAPI\obj\Debug\TareaDeAPI.csproj.Up2Date
+C:\Users\USUARIO\Desktop\3.er semestre\TAREA DE API\TareaDeAPI\TareaDeAPI\obj\Debug\TareaDeAPI.exe
+C:\Users\USUARIO\Desktop\3.er semestre\TAREA DE API\TareaDeAPI\TareaDeAPI\obj\Debug\TareaDeAPI.pdb
+C:\Users\USUARIO\Downloads\TAREA DE API\TareaDeAPI\TareaDeAPI\bin\Debug\TareaDeAPI.exe.config
+C:\Users\USUARIO\Downloads\TAREA DE API\TareaDeAPI\TareaDeAPI\bin\Debug\TareaDeAPI.exe
+C:\Users\USUARIO\Downloads\TAREA DE API\TareaDeAPI\TareaDeAPI\bin\Debug\TareaDeAPI.pdb
+C:\Users\USUARIO\Downloads\TAREA DE API\TareaDeAPI\TareaDeAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USUARIO\Downloads\TAREA DE API\TareaDeAPI\TareaDeAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USUARIO\Downloads\TAREA DE API\TareaDeAPI\TareaDeAPI\obj\Debug\TareaDeAPI.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\TAREA DE API\TareaDeAPI\TareaDeAPI\obj\Debug\TareaDeAPI.Form1.resources
+C:\Users\USUARIO\Downloads\TAREA DE API\TareaDeAPI\TareaDeAPI\obj\Debug\TareaDeAPI.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\TAREA DE API\TareaDeAPI\TareaDeAPI\obj\Debug\TareaDeAPI.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\TAREA DE API\TareaDeAPI\TareaDeAPI\obj\Debug\TareaDeAPI.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\TAREA DE API\TareaDeAPI\TareaDeAPI\obj\Debug\TareaDeAPI.csproj.Up2Date
+C:\Users\USUARIO\Downloads\TAREA DE API\TareaDeAPI\TareaDeAPI\obj\Debug\TareaDeAPI.exe
+C:\Users\USUARIO\Downloads\TAREA DE API\TareaDeAPI\TareaDeAPI\obj\Debug\TareaDeAPI.pdb

@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Downloads\\TAREA DE API\\TareaDeAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E889921A-C866-4FD0-965D-EA868D1F53DF}|TareaDeAPI\\TareaDeAPI.csproj|C:\\Users\\USUARIO\\Downloads\\TAREA DE API\\TareaDeAPI\\tareadeapi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E889921A-C866-4FD0-965D-EA868D1F53DF}|TareaDeAPI\\TareaDeAPI.csproj|solutionrelative:tareadeapi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E889921A-C866-4FD0-965D-EA868D1F53DF}|TareaDeAPI\\TareaDeAPI.csproj|c:\\users\\usuario\\downloads\\tarea de api\\tareadeapi\\tareadeapi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E889921A-C866-4FD0-965D-EA868D1F53DF}|TareaDeAPI\\TareaDeAPI.csproj|solutionrelative:tareadeapi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E889921A-C866-4FD0-965D-EA868D1F53DF}|TareaDeAPI\\TareaDeAPI.csproj|C:\\Users\\USUARIO\\Downloads\\TAREA DE API\\TareaDeAPI\\tareadeapi\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E889921A-C866-4FD0-965D-EA868D1F53DF}|TareaDeAPI\\TareaDeAPI.csproj|solutionrelative:tareadeapi\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\TAREA DE API\\TareaDeAPI\\TareaDeAPI\\Form1.cs",
+              "RelativeDocumentMoniker": "TareaDeAPI\\Form1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\TAREA DE API\\TareaDeAPI\\TareaDeAPI\\Form1.cs",
+              "RelativeToolTip": "TareaDeAPI\\Form1.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:02:54.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\TAREA DE API\\TareaDeAPI\\TareaDeAPI\\Models\\Pokemon.cs",
+              "RelativeDocumentMoniker": "TareaDeAPI\\Models\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\TAREA DE API\\TareaDeAPI\\TareaDeAPI\\Models\\Pokemon.cs",
+              "RelativeToolTip": "TareaDeAPI\\Models\\Pokemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:00:11.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\TAREA DE API\\TareaDeAPI\\TareaDeAPI\\Form1.cs",
+              "RelativeDocumentMoniker": "TareaDeAPI\\Form1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\TAREA DE API\\TareaDeAPI\\TareaDeAPI\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TareaDeAPI\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T04:36:31.889Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
